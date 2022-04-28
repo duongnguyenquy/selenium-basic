@@ -1,0 +1,7 @@
+<suite name="Smoke test" parallel="methods" thread-cound="4">
+    <test name="Driver Factory Test">
+        <classes>
+            <class name="com.daniel.learning.Login" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,14 @@
+{
+  "BASE_HOST": {
+    "url": "https://the-internet.herokuapp.com"
+  },
+  "HOME_PAGE": {
+    "path": "/"
+  },
+  "LOGIN_PAGE": {
+    "path": "/login"
+  },
+  "DRAG_DROP_PAGE": {
+    "path": "/drag_and_drop"
+  }
+}
